@@ -1,0 +1,16 @@
+setting: classification_SelfRegulationSCP1_M2SFormerATPSelfRegulationSCP2_UEA_ftM_sl896_ll48_pl0_dm128_nh8_el3_dl1_df256_expand2_dc4_fc1_ebtimeF_dtTrue_Exp_0c53d364bf4b853ecaaed3b7f241c766b74dab30fb00bb63f888a32f6cec406da
+precision: 0.929936
+recall: 0.928328
+f1: 0.928252
+accuracy: 0.928252
+test_elapsed_seconds: 8.2679
+
+              precision    recall  f1-score   support
+
+           0       0.90      0.96      0.93       147
+           1       0.96      0.90      0.93       146
+
+    accuracy                           0.93       293
+   macro avg       0.93      0.93      0.93       293
+weighted avg       0.93      0.93      0.93       293
+

@@ -1,0 +1,18 @@
+setting: classification_EthanolConcentration_M2SFormerATPSelfRegulationSCP2_UEA_ftM_sl1751_ll48_pl0_dm128_nh8_el3_dl1_df256_expand2_dc4_fc1_ebtimeF_dtTrue_Exp_09f4ffad71a8df42a703d458194cde42e110f2954c7ca68222f2d971b08ebf244
+precision: 0.330831
+recall: 0.315589
+f1: 0.309467
+accuracy: 0.309467
+test_elapsed_seconds: 19.6246
+
+              precision    recall  f1-score   support
+
+           0       0.38      0.35      0.36        66
+           1       0.29      0.39      0.33        66
+           2       0.38      0.17      0.23        66
+           3       0.28      0.35      0.31        65
+
+    accuracy                           0.32       263
+   macro avg       0.33      0.32      0.31       263
+weighted avg       0.33      0.32      0.31       263
+

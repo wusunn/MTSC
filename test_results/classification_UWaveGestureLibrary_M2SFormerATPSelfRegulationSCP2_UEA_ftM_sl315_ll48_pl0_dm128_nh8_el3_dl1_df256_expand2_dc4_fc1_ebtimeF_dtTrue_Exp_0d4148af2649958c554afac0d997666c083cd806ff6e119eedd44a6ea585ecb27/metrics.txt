@@ -1,0 +1,22 @@
+setting: classification_UWaveGestureLibrary_M2SFormerATPSelfRegulationSCP2_UEA_ftM_sl315_ll48_pl0_dm128_nh8_el3_dl1_df256_expand2_dc4_fc1_ebtimeF_dtTrue_Exp_0d4148af2649958c554afac0d997666c083cd806ff6e119eedd44a6ea585ecb27
+precision: 0.930787
+recall: 0.921875
+f1: 0.921826
+accuracy: 0.921826
+test_elapsed_seconds: 9.5750
+
+              precision    recall  f1-score   support
+
+           0       0.97      0.88      0.92        40
+           1       1.00      1.00      1.00        40
+           2       0.97      0.90      0.94        40
+           3       0.93      0.70      0.80        40
+           4       0.73      0.93      0.81        40
+           5       0.87      0.97      0.92        40
+           6       0.98      1.00      0.99        40
+           7       1.00      1.00      1.00        40
+
+    accuracy                           0.92       320
+   macro avg       0.93      0.92      0.92       320
+weighted avg       0.93      0.92      0.92       320
+

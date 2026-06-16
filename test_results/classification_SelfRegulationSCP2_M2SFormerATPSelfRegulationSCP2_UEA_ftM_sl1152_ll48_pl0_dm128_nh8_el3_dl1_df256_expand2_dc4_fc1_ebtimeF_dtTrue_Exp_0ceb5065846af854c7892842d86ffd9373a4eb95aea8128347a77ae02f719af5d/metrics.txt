@@ -1,0 +1,16 @@
+setting: classification_SelfRegulationSCP2_M2SFormerATPSelfRegulationSCP2_UEA_ftM_sl1152_ll48_pl0_dm128_nh8_el3_dl1_df256_expand2_dc4_fc1_ebtimeF_dtTrue_Exp_0ceb5065846af854c7892842d86ffd9373a4eb95aea8128347a77ae02f719af5d
+precision: 0.601810
+recall: 0.600000
+f1: 0.598214
+accuracy: 0.598214
+test_elapsed_seconds: 4.4160
+
+              precision    recall  f1-score   support
+
+           0       0.62      0.53      0.57        90
+           1       0.59      0.67      0.62        90
+
+    accuracy                           0.60       180
+   macro avg       0.60      0.60      0.60       180
+weighted avg       0.60      0.60      0.60       180
+

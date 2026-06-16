@@ -1,0 +1,16 @@
+setting: classification_Heartbeat_M2SFormerATPSelfRegulationSCP2_UEA_ftM_sl405_ll48_pl0_dm128_nh8_el3_dl1_df256_expand2_dc4_fc1_ebtimeF_dtTrue_Exp_0c096fef635ddae3cf07b21608823d1aa76322e29a2fcd361dbd7bdb2e5110aa5
+precision: 0.783973
+recall: 0.795122
+f1: 0.781787
+accuracy: 0.781787
+test_elapsed_seconds: 2.3174
+
+              precision    recall  f1-score   support
+
+           0       0.82      0.92      0.87       148
+           1       0.69      0.47      0.56        57
+
+    accuracy                           0.80       205
+   macro avg       0.76      0.70      0.71       205
+weighted avg       0.78      0.80      0.78       205
+

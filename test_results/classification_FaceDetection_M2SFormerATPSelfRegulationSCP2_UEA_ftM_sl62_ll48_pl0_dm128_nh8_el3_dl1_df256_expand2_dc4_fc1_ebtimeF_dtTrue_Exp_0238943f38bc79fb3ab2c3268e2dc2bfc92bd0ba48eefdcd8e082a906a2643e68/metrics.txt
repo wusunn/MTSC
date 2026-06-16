@@ -1,0 +1,16 @@
+setting: classification_FaceDetection_M2SFormerATPSelfRegulationSCP2_UEA_ftM_sl62_ll48_pl0_dm128_nh8_el3_dl1_df256_expand2_dc4_fc1_ebtimeF_dtTrue_Exp_0238943f38bc79fb3ab2c3268e2dc2bfc92bd0ba48eefdcd8e082a906a2643e68
+precision: 0.697828
+recall: 0.693814
+f1: 0.692253
+accuracy: 0.692253
+test_elapsed_seconds: 6.4416
+
+              precision    recall  f1-score   support
+
+           0       0.67      0.77      0.71      1762
+           1       0.73      0.62      0.67      1762
+
+    accuracy                           0.69      3524
+   macro avg       0.70      0.69      0.69      3524
+weighted avg       0.70      0.69      0.69      3524
+

@@ -1,0 +1,21 @@
+setting: classification_PEMS-SF_M2SFormerATPSelfRegulationSCP2_UEA_ftM_sl144_ll48_pl0_dm128_nh8_el3_dl1_df256_expand2_dc4_fc1_ebtimeF_dtTrue_Exp_05068db0e47249a5c0b4ba36764b71e987397ef40f5439cd3cfe5af25cfa09e43
+precision: 0.890049
+recall: 0.884393
+f1: 0.883880
+accuracy: 0.883880
+test_elapsed_seconds: 16.4704
+
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00        30
+           1       0.92      0.88      0.90        25
+           2       0.71      0.92      0.80        26
+           3       0.74      0.61      0.67        23
+           4       0.90      0.82      0.86        22
+           5       0.96      0.93      0.94        27
+           6       1.00      1.00      1.00        20
+
+    accuracy                           0.88       173
+   macro avg       0.89      0.88      0.88       173
+weighted avg       0.89      0.88      0.88       173
+
