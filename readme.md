@@ -1,4 +1,4 @@
-# Readme
+# DMSC-Net Open Source Code
 - **results/eval_time**: Inference time measurements (reported in our paper) of the algorithm, exported from MLflow.
 - **results/f1_prec_recall**: Accuracy-related metrics (F1, Precision, and Recall) (reported in our paper) , exported from MLflow.
 - **checkpoints/**: Checkpoints of our method (seed = 42). The corresponding results can be reproduced and inspected via `reproduce_our_results.sh`.
